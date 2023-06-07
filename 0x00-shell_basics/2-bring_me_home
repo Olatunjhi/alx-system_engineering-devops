@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 cd $home
+=======
+olatunjhi@ubuntu:/school$ cd $home
+>>>>>>> f4f0c3c6e2611cfc42c3e6f110ceec59cf9cba1e
