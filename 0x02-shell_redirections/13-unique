@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "c++ c c java php sql" | tr ' ' '\n' | sort | uniq -u
